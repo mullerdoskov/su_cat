@@ -1,0 +1,6 @@
+Coloque aqui as fotos para o site:
+
+- suzana.jpg  → foto da Suzana Soave (seção Sobre). Tamanho sugerido: ~400x500px.
+- gatos/1.jpg até gatos/6.jpg → fotos dos gatinhos (galeria "Bons Tratos"). Tamanho sugerido: ~400x300px.
+
+Se os arquivos não existirem, o site usa imagens placeholder até você adicionar as fotos reais.
